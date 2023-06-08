@@ -1,5 +1,22 @@
 # flexiAir
 
+Prototype 1 : Onboard
+
+https://www.figma.com/proto/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?type=design&node-id=48419-9169&scaling=scale-down&page-id=26629%3A2887&starting-point-node-id=48419%3A9169&show-proto-sidebar=1
+
+
+Prototype 2 : Mobility
+https://www.figma.com/file/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?type=design&node-id=48419%3A9169&t=jkaCf18qLxBCE1Ec-1
+
+Prototype 3 : Dashboard
+https://www.figma.com/file/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?type=design&node-id=48419%3A9104&t=jkaCf18qLxBCE1Ec-1
+
+Prototype 4 : Badges
+https://www.figma.com/file/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?type=design&node-id=48419%3A9147&t=jkaCf18qLxBCE1Ec-1
+
+Prototype 4 : Community
+https://www.figma.com/file/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?type=design&node-id=48419%3A9201&t=jkaCf18qLxBCE1Ec-1
+
 ## Une application qui valorise les petites actions, plutôt que les gestes héroïques.
 
 ![image](https://github.com/paulinecoudert/flexiAir/assets/67103663/c9250000-8ee4-42eb-87b8-7919b38a20f2)
@@ -123,4 +140,3 @@ Notre application est là pour pouvoir donner des alternatives dans les déplace
 
 
 
-https://www.figma.com/proto/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?type=design&node-id=48419-9169&scaling=scale-down&page-id=26629%3A2887&starting-point-node-id=48419%3A9169&show-proto-sidebar=1
