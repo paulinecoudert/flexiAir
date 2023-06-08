@@ -1,21 +1,19 @@
 # flexiAir
 
 Prototype 1 : Onboard
-
-https://www.figma.com/proto/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?type=design&node-id=48419-9169&scaling=scale-down&page-id=26629%3A2887&starting-point-node-id=48419%3A9169&show-proto-sidebar=1
-
+https://www.figma.com/proto/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?page-id=26629%3A2887&type=design&node-id=48419-9092&viewport=668%2C412%2C0.04&scaling=scale-down&starting-point-node-id=48419%3A9092&show-proto-sidebar=1
 
 Prototype 2 : Mobility
-https://www.figma.com/file/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?type=design&node-id=48419%3A9169&t=jkaCf18qLxBCE1Ec-1
+https://www.figma.com/proto/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?page-id=26629%3A2887&type=design&node-id=48419-9169&viewport=668%2C412%2C0.04&scaling=scale-down&starting-point-node-id=48419%3A9169&show-proto-sidebar=1)
 
 Prototype 3 : Dashboard
-https://www.figma.com/file/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?type=design&node-id=48419%3A9104&t=jkaCf18qLxBCE1Ec-1
+https://www.figma.com/proto/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?page-id=26629%3A2887&type=design&node-id=48419-9104&viewport=668%2C412%2C0.04&scaling=scale-down&starting-point-node-id=48419%3A9104&show-proto-sidebar=1
 
 Prototype 4 : Badges
-https://www.figma.com/file/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?type=design&node-id=48419%3A9147&t=jkaCf18qLxBCE1Ec-1
+https://www.figma.com/proto/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?page-id=26629%3A2887&type=design&node-id=48419-9147&viewport=668%2C412%2C0.04&scaling=scale-down&starting-point-node-id=48419%3A9147&show-proto-sidebar=1
 
 Prototype 4 : Community
-https://www.figma.com/file/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?type=design&node-id=48419%3A9201&t=jkaCf18qLxBCE1Ec-1
+https://www.figma.com/proto/rAI0vtkW9p8UsPhGgETBJW/Flexi-Air-Mobility?page-id=26629%3A2887&type=design&node-id=48419-9201&viewport=668%2C412%2C0.04&scaling=scale-down&starting-point-node-id=48419%3A9201&show-proto-sidebar=1
 
 ## Une application qui valorise les petites actions, plutôt que les gestes héroïques.
 
